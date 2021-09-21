@@ -1,8 +1,14 @@
-## John Gacal
+<h1 align='center'> John Gacal </h1>
 
-You can use the [editor on GitHub](https://github.com/johngacal98/Digital-CV/edit/gh-pages/readme.md) to maintain and preview the content for your website in Markdown files.
+<p align='center'><i>Aspiring Data Scientist</i></p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+  
+[Email](mailto:johnfrancisgacal@gmail.com) / [LinkedIn](https://www.linkedin.com/in/john-francis-gacal/) / [GitHub](https://github.com/johngacal98)
+
+
+
 
 ### Markdown
 
