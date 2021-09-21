@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## John Gacal
 
 You can use the [editor on GitHub](https://github.com/johngacal98/Digital-CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
