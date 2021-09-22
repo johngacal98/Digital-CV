@@ -37,6 +37,13 @@ De La Salle University - Manila
 **Dean's Lister**
  - 7 out of 14 semesters in De La Salle University - Manila
 
+## WORK EXPERIENCE
+**Henkel - Supply Chain Intern** (_2019_)
+ - Provided support for day-to-day transactions for the Quality Management Team (QMT) on the Certificate of Analysis (COA). Contributed in ensuring that the SLAs and KPIs are met consistently to achieve high customer satisfaction for the team. Monthly completed transactions averaging higher than, if not equal to, my team members’ number of completed transactions. Delivered a short presentation on how the QMT operates daily to a Regional Manager of Henkel.
+
+## Data Science Projects
+
+
 ```markdown
 Syntax highlighted code block
 
