@@ -10,9 +10,32 @@
 
 
 
-### Markdown
+## 🏫 EDUCATION
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Master of Science in Data Science** (_2021 - present_)<br>
+Asian Institute of Management 
+
+**Diploma in Foundations of Data Science** (_2020_)<br>
+De La Salle University - Manila 
+
+**Bachelor of Science in Industrial Engineering** (_2015 - 2020_)<br>
+De La Salle University - Manila 
+
+
+## ACHIEVEMENTS
+**Gold Thesis Awardee (Most Outstanding Thesis)**
+ - Best thesis award for the graduating batch of B.S. Industrial Engineering.
+ - Thesis title : "_A Multi-visit Truck-Drone Tandem Routing Problem with Backhauls and Optimized Battery Swapping_".
+ - A thesis that involves solving an NP-hard problem in combinatorial optimization.
+
+**Published IEEE International Conference Paper for Industrial Engineering and Engineering Management (IEEM2020)** 
+- Presented to a panel our study titled, ["_Flying Sidekick Traveling Salesman Problem with Pick-Up and Delivery and Drone Energy Optimization_"](https://ieeexplore.ieee.org/document/9309960).
+
+**Six Sigma Yellow Belt Training Certificate** 
+- a one-day lean six sigma training workshop with exam for yellow belt projects. 
+
+**Dean's Lister**
+ - 7 out of 14 semesters in De La Salle University - Manila
 
 ```markdown
 Syntax highlighted code block
