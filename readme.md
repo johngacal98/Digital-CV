@@ -50,6 +50,3 @@ De La Salle University - Manila
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
-# Header1
-
-_Ara Loren_
