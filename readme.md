@@ -43,6 +43,13 @@ De La Salle University - Manila
 
 ## Data Science Projects
 
+# GeoPandas 
+[GeoPandas Visualization](https://github.com/johngacal98/Digital-CV/blob/gh-pages/Assignment_2_-_Geopandas_and_Basic_Visualization_Gacal.ipynb)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+
+# Header1
+
+_Ara Loren_
