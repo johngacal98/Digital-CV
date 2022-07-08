@@ -12,7 +12,7 @@
 
 ## 🏫 EDUCATION
 
-**Master of Science in Data Science** (_2021 - present_)<br>
+**Master of Science in Data Science** (_2021 - 2022_)<br>
 Asian Institute of Management 
 
 **Diploma in Foundations of Data Science** (_2020_)<br>
