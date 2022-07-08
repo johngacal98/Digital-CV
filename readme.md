@@ -45,7 +45,7 @@ De La Salle University - Manila
  - A 4-month capstone project for my Master of Science in Data Science Degree at the Asian Institute of Management where we pitched a solution to Entrego for their data science problem. Entrego is a logistics company that focuses on last-mile deliveries and other logistics needs. I worked with a team that cleaned the company's client address data that provided better coordinates estimation of these addresses. The team also worked to optimize the delivery routes of the riders of Entrego. The results of the project could potentially save thousands of pesos (Php) for the company on a daily basis. 
  
 ## 📊 Data Science Projects
-Please visit by github data science portfolio for my projects in the link below <br>
+Please visit my github data science portfolio for my projects in the link below <br>
 [Data Science Portfolio](https://github.com/johngacal98/Portfolio.git)
 
 ## ⚒️Technical Skills
