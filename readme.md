@@ -48,6 +48,24 @@ De La Salle University - Manila
 Please visit by github data science portfolio for my projects in the link below <br>
 [Data Science Portfolio](https://github.com/johngacal98/Portfolio.git)
 
+## ⚒️Technical Skills
+- Python
+- scikit-learn
+- SQL
+- Pandas
+- Data Visualization
+- Machine Learning
+- Data Analysis
+- Microsoft Office
+- Linear Programming
+
+## References
+ **Engr. Dennis E. Cruz** _Professor_ - De La Salle University<br>
+ dennis.cruz@dlsu.edu.ph
+ 
+ **Dr. Chrisopher Monterola** _Professor/Mentor_ - Asian Institute of Management<br>
+ CMonterola@AIM.EDU
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
