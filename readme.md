@@ -60,7 +60,7 @@ Please visit by github data science portfolio for my projects in the link below 
 - Linear Programming
 
 ## References
- **Engr. Dennis E. Cruz** _Professor_ - De La Salle University<br>
+ **Engr. Dennis E. Cruz** _Professor/Adviser_ - De La Salle University<br>
  dennis.cruz@dlsu.edu.ph
  
  **Dr. Chrisopher Monterola** _Professor/Mentor_ - Asian Institute of Management<br>
