@@ -42,10 +42,8 @@ De La Salle University - Manila
  - Provided support for day-to-day transactions for the Quality Management Team (QMT) on the Certificate of Analysis (COA). Contributed in ensuring that the SLAs and KPIs are met consistently to achieve high customer satisfaction for the team. Monthly completed transactions averaging higher than, if not equal to, my team members’ number of completed transactions. Delivered a short presentation on how the QMT operates daily to a Regional Manager of Henkel.
 
 ## Data Science Projects
-
-# GeoPandas 
-[GeoPandas Visualization](https://github.com/johngacal98/Digital-CV/blob/gh-pages/Assignment_2_-_Geopandas_and_Basic_Visualization_Gacal.ipynb)
-
+Please visit by github data science portfolio for my projects in the link below <br>
+[Data Science Portfolio](https://github.com/johngacal98/Portfolio.git)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
