@@ -22,7 +22,7 @@ De La Salle University - Manila
 De La Salle University - Manila 
 
 
-## ACHIEVEMENTS
+## 🏆 ACHIEVEMENTS
 **Gold Thesis Awardee (Most Outstanding Thesis)**
  - Best thesis award for the graduating batch of B.S. Industrial Engineering.
  - Thesis title : "_A Multi-visit Truck-Drone Tandem Routing Problem with Backhauls and Optimized Battery Swapping_".
@@ -37,14 +37,14 @@ De La Salle University - Manila
 **Dean's Lister**
  - 7 out of 14 semesters in De La Salle University - Manila
 
-## WORK EXPERIENCE
+## 💼 WORK EXPERIENCE
 **Henkel - Supply Chain Intern** _2019_
  - Provided support for day-to-day transactions for the Quality Management Team (QMT) on the Certificate of Analysis (COA). Contributed in ensuring that the SLAs and KPIs are met consistently to achieve high customer satisfaction for the team. Monthly completed transactions averaging higher than, if not equal to, my team members’ number of completed transactions. Delivered a short presentation on how the QMT operates daily to a Regional Manager of Henkel.
 
 **Entrego - Data Science Consultant** _2021_
  - A 4-month capstone project for my Master of Science in Data Science Degree at the Asian Institute of Management where we pitched a solution to Entrego for their data science problem. Entrego is a logistics company that focuses on last-mile deliveries and other logistics needs. I worked with a team that cleaned the company's client address data that provided better coordinates estimation of these addresses. The team also worked to optimize the delivery routes of the riders of Entrego. The results of the project could potentially save thousands of pesos (Php) for the company on a daily basis. 
  
-## Data Science Projects
+## 📊 Data Science Projects
 Please visit by github data science portfolio for my projects in the link below <br>
 [Data Science Portfolio](https://github.com/johngacal98/Portfolio.git)
 
