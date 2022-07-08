@@ -66,6 +66,6 @@ Please visit my github data science portfolio for my projects in the link below 
  **Dr. Chrisopher Monterola** _Professor/Mentor_ - Asian Institute of Management<br>
  CMonterola@AIM.EDU
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 
 
