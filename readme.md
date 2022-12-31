@@ -12,13 +12,13 @@
 
 ## 🏫 EDUCATION
 
-**Master of Science in Data Science** _2021 - 2022_<br>
+[**Master of Science in Data Science**](https://asite.aim.edu/programs/master-of-science-in-data-science/) _2021 - 2022_<br>
 Asian Institute of Management 
 
 **Diploma in Foundations of Data Science** _2020_<br>
 De La Salle University - Manila 
 
-**Bachelor of Science in Industrial Engineering** _2015 - 2020_<br>
+[**Bachelor of Science in Industrial Engineering**](https://www.dlsu.edu.ph/colleges/gcoe/undergraduate-degree-programs/bachelor-of-science-in-industrial-engineering-bsie/) _2015 - 2020_<br>
 De La Salle University - Manila 
 
 
