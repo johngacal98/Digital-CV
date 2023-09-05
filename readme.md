@@ -46,7 +46,13 @@ De La Salle University - Manila
 
 **AIA Digital+ - Data Science Specialist** _2022_
 - Create analytics models to help AIA business units solve business problems.
-  - test
+  - Stock Portfolio Optimization
+      - Created a mathematical model that suggests trades to execute by AIA fund managers.
+      - Index Tracking use case
+  - Marketing
+      - Automate Processes using Python that improve turnaround time of deliverables by the team.
+      - Create analytics reports and analysis that provide insights to help campaign decision making
+      - utilize existing propensity models to supplement campaign efforts and prioritize leads for cross-sell and upsell
  
 ## 📊 Personal Data Science Projects
 Please visit my github data science portfolio for my projects in the link below <br>
