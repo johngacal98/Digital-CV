@@ -23,7 +23,7 @@ De La Salle University - Manila
 **Diploma in Foundations of Data Science** _2020_<br>
 De La Salle University - Manila 
 
-**Exam AI-9000: Microsoft Azure AI Fundamentals**
+**Exam AI-9000: Microsoft Azure AI Fundamentals**<br>
 Microsoft
 
 
@@ -34,7 +34,7 @@ Microsoft
  - Proposed a novel linear-optimization-based model that optimizes a novel routing problem in combinatorial optimization. 
 **Published IEEE International Conference Paper for Industrial Engineering and Engineering Management (IEEM2020) in Singapore** 
 - Presented to a panel our study titled, ["_Flying Sidekick Traveling Salesman Problem with Pick-Up and Delivery and Drone Energy Optimization_"](https://ieeexplore.ieee.org/document/9309960).
-- Linear Optimization Model based 
+- a variation of my thesis that was written, and published as a conference paper.
 
 **Six Sigma Yellow Belt Training Certificate** 
 - a one-day lean six sigma training workshop with exam for yellow belt projects. 
@@ -51,13 +51,16 @@ Microsoft
 
 **AIA Digital+ - Data Science Specialist** _2022_
 - Create analytics models to help AIA business units solve business problems.
-  - Stock Portfolio Optimization
-      - Created a mathematical model (Linear Optimization Model) that suggests trades to execute by AIA fund managers.
+  - Stock Portfolio Optimization (project)
       - Index Tracking use case
-  - Marketing
+      - Created a mathematical model (Linear Optimization Model) that suggests trades to execute by AIA fund managers.
+      - Cost Savings and trade accuracy
+      
+  - Marketing (staff augmentation)
       - Automate Processes using Python that improve turnaround time of deliverables by the team.
       - Create analytics reports and analysis that provide insights to help campaign decision making
-      - utilize existing propensity models (Next Best Offer) to supplement campaign efforts and prioritize leads for cross-sell and upsell
+      - utilize existing propensity models (Next Best Offer) to supplement campaign efforts and prioritize leads for cross-sell and upsell activities
+      - Customer Segmentation (Unsupervised Learning Models)
  
 
 ## ⚒️Technical Skills
@@ -71,6 +74,8 @@ Microsoft
 - Machine Learning
 - Deep Learning
 - Data Analysis
+- Git
+- Agile Methods
 - Microsoft Office
   
 ## References
