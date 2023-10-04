@@ -5,7 +5,7 @@
 
 
   
-[Email](mailto:johnfrancisgacal@gmail.com) / [LinkedIn](https://www.linkedin.com/in/john-francis-gacal/) / [GitHub](https://github.com/johngacal98)
+[Email](mailto:johnfrancisgacal@gmail.com) / [LinkedIn](https://www.linkedin.com/in/john-francis-gacal/)
 
 
 
@@ -15,60 +15,64 @@
 [**Master of Science in Data Science**](https://asite.aim.edu/programs/master-of-science-in-data-science/) _2021 - 2022_<br>
 Asian Institute of Management 
 
-**Diploma in Foundations of Data Science** _2020_<br>
-De La Salle University - Manila 
 
 [**Bachelor of Science in Industrial Engineering**](https://www.dlsu.edu.ph/colleges/gcoe/undergraduate-degree-programs/bachelor-of-science-in-industrial-engineering-bsie/) _2015 - 2020_<br>
 De La Salle University - Manila 
+
+
+**Diploma in Foundations of Data Science** _2020_<br>
+De La Salle University - Manila 
+
+**Exam AI-9000: Microsoft Azure AI Fundamentals**
+Microsoft
 
 
 ## 🏆 ACHIEVEMENTS
 **Gold Thesis Awardee (Most Outstanding Thesis)**
  - Best thesis award for the graduating batch of B.S. Industrial Engineering.
  - Thesis title : "_A Multi-visit Truck-Drone Tandem Routing Problem with Backhauls and Optimized Battery Swapping_".
- - A thesis that involves solving an NP-hard problem in combinatorial optimization.
-
-**Published IEEE International Conference Paper for Industrial Engineering and Engineering Management (IEEM2020)** 
+ - Proposed a novel linear-optimization-based model that optimizes a novel routing problem in combinatorial optimization. 
+**Published IEEE International Conference Paper for Industrial Engineering and Engineering Management (IEEM2020) in Singapore** 
 - Presented to a panel our study titled, ["_Flying Sidekick Traveling Salesman Problem with Pick-Up and Delivery and Drone Energy Optimization_"](https://ieeexplore.ieee.org/document/9309960).
+- Linear Optimization Model based 
 
 **Six Sigma Yellow Belt Training Certificate** 
 - a one-day lean six sigma training workshop with exam for yellow belt projects. 
 
 **Dean's Lister**
- - 7 out of 14 semesters in De La Salle University - Manila
+ - award for academic excellence for a semester
 
 ## 💼 WORK EXPERIENCE
 **Henkel - Supply Chain Intern** _2019_
  - Provided support for day-to-day transactions for the Quality Management Team (QMT) on the Certificate of Analysis (COA). Contributed in ensuring that the SLAs and KPIs are met consistently to achieve high customer satisfaction for the team. Monthly completed transactions averaging higher than, if not equal to, my team members’ number of completed transactions. Delivered a short presentation on how the QMT operates daily to a Regional Manager of Henkel.
 
 **Entrego - Data Science Consultant** _2021_
- - A 4-month capstone project for my Master of Science in Data Science Degree at the Asian Institute of Management where we pitched a solution to Entrego for their data science problem. Entrego is a logistics company that focuses on last-mile deliveries and other logistics needs. I worked with a team that cleaned the company's client address data that provided better coordinates estimation of these addresses. The team also worked to optimize the delivery routes of the riders of Entrego. The results of the project could potentially save thousands of pesos (Php) for the company on a daily basis.
+ - A 4-month capstone project for my Master of Science in Data Science Degree at the Asian Institute of Management where we pitched a solution to Entrego for their data science problem. Entrego is a logistics company that focuses on last-mile deliveries and other logistics needs. I worked with a team that cleaned the company's client address data that provided better coordinates estimation of these addresses. The team also built a reinforcement learning model (Deep Q Network) to optimize the delivery routes of the riders of Entrego. The results of the project could potentially save thousands of pesos (Php) for the company on a daily basis.
 
 **AIA Digital+ - Data Science Specialist** _2022_
 - Create analytics models to help AIA business units solve business problems.
   - Stock Portfolio Optimization
-      - Created a mathematical model that suggests trades to execute by AIA fund managers.
+      - Created a mathematical model (Linear Optimization Model) that suggests trades to execute by AIA fund managers.
       - Index Tracking use case
   - Marketing
       - Automate Processes using Python that improve turnaround time of deliverables by the team.
       - Create analytics reports and analysis that provide insights to help campaign decision making
-      - utilize existing propensity models to supplement campaign efforts and prioritize leads for cross-sell and upsell
+      - utilize existing propensity models (Next Best Offer) to supplement campaign efforts and prioritize leads for cross-sell and upsell
  
-## 📊 Personal Data Science Projects
-Please visit my github data science portfolio for my projects in the link below <br>
-[Data Science Portfolio](https://github.com/johngacal98/Portfolio.git)
 
 ## ⚒️Technical Skills
 - Python
-- scikit-learn
+  - PySpark
+  - Pyomo (Optimization)
+  - scikit-learn
+  - Pandas
 - SQL
-- Pandas
 - Data Visualization
 - Machine Learning
+- Deep Learning
 - Data Analysis
 - Microsoft Office
-- Linear Programming
-
+  
 ## References
  **Engr. Dennis E. Cruz** _Professor/Adviser_ - De La Salle University<br>
  dennis.cruz@dlsu.edu.ph
