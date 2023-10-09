@@ -31,7 +31,8 @@ Microsoft
 **Gold Thesis Awardee (Most Outstanding Thesis)**
  - Best thesis award for the graduating batch of B.S. Industrial Engineering.
  - Thesis title : "_A Multi-visit Truck-Drone Tandem Routing Problem with Backhauls and Optimized Battery Swapping_".
- - Proposed a novel linear-optimization-based model that optimizes a novel routing problem in combinatorial optimization. 
+ - Proposed a novel linear-optimization-based model that optimizes a novel routing problem in combinatorial optimization.
+
 **Published IEEE International Conference Paper for Industrial Engineering and Engineering Management (IEEM2020) in Singapore** 
 - Presented to a panel our study titled, ["_Flying Sidekick Traveling Salesman Problem with Pick-Up and Delivery and Drone Energy Optimization_"](https://ieeexplore.ieee.org/document/9309960).
 - a variation of my thesis that was written, and published as a conference paper.
