@@ -26,6 +26,8 @@ De La Salle University - Manila
 [**Exam AI-9000: Microsoft Azure AI Fundamentals**](https://www.credly.com/badges/a4b47363-eb4d-4fb8-b66a-5e93acf2f691/linked_in_profile) _2022_ <br>
 Microsoft
 
+**Six Sigma Yellow Belt Training Certificate** _2018_<br> 
+- a one-day lean six sigma training workshop with exam for yellow belt projects. 
 
 ## ACHIEVEMENTS
 **Gold Thesis Awardee (Most Outstanding Thesis)**
@@ -37,8 +39,6 @@ Microsoft
 - Presented to a panel our study titled, ["_Flying Sidekick Traveling Salesman Problem with Pick-Up and Delivery and Drone Energy Optimization_"](https://ieeexplore.ieee.org/document/9309960).
 - a variation of my thesis that was written, and published as a conference paper.
 
-**Six Sigma Yellow Belt Training Certificate** 
-- a one-day lean six sigma training workshop with exam for yellow belt projects. 
 
 **Dean's Lister**
  - award for academic excellence for a semester
