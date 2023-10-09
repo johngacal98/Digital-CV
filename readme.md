@@ -1,6 +1,6 @@
 <h1 align='center'> John Gacal </h1>
 
-<p align='center'><i>Aspiring Data Scientist</i></p>
+<p align='center'><i>Data Scientist</i></p>
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-## 🏫 EDUCATION
+## EDUCATION
 
 [**Master of Science in Data Science**](https://asite.aim.edu/programs/master-of-science-in-data-science/) _2021 - 2022_<br>
 Asian Institute of Management 
@@ -20,14 +20,14 @@ Asian Institute of Management
 De La Salle University - Manila 
 
 
-**Diploma in Foundations of Data Science** _2020_<br>
+[**Diploma in Foundations of Data Science**](https://altdsi.dlsu.edu.ph/programs/Diploma%20Courses/foundations-of-data-science-2.html) _2020_<br>
 De La Salle University - Manila 
 
-**Exam AI-9000: Microsoft Azure AI Fundamentals**<br>
+[**Exam AI-9000: Microsoft Azure AI Fundamentals**](https://www.credly.com/badges/a4b47363-eb4d-4fb8-b66a-5e93acf2f691/linked_in_profile) _2022_ <br>
 Microsoft
 
 
-## 🏆 ACHIEVEMENTS
+## ACHIEVEMENTS
 **Gold Thesis Awardee (Most Outstanding Thesis)**
  - Best thesis award for the graduating batch of B.S. Industrial Engineering.
  - Thesis title : "_A Multi-visit Truck-Drone Tandem Routing Problem with Backhauls and Optimized Battery Swapping_".
@@ -42,7 +42,7 @@ Microsoft
 **Dean's Lister**
  - award for academic excellence for a semester
 
-## 💼 WORK EXPERIENCE
+## WORK EXPERIENCE
 **Henkel - Supply Chain Intern** _2019_
  - Provided support for day-to-day transactions for the Quality Management Team (QMT) on the Certificate of Analysis (COA). Contributed in ensuring that the SLAs and KPIs are met consistently to achieve high customer satisfaction for the team. Monthly completed transactions averaging higher than, if not equal to, my team members’ number of completed transactions. Delivered a short presentation on how the QMT operates daily to a Regional Manager of Henkel.
 
@@ -63,7 +63,7 @@ Microsoft
       - Customer Segmentation (Unsupervised Learning Models)
  
 
-## ⚒️Technical Skills
+## Technical Skills
 - Python
   - PySpark
   - Pyomo (Optimization)
